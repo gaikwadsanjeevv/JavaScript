@@ -30,7 +30,25 @@
 - we can write any expression inside {}
 ![image](https://github.com/user-attachments/assets/8c2fbc11-f5e8-4361-9b90-3bb05ebd7c4b)
 
-String are immutable so when we apply an method it wont convert same string like making it uppercase but you can store it in other variable to get result.  
+String are immutable we may not be able to modify it, but we can take some methods and convert it in uppercase and lowercase and store in another variable then we can see the changed String.  
+![image](https://github.com/user-attachments/assets/d6a01c91-aa0f-4bf7-88db-44a7a31aae33)  
+
+### Math Object:  
+![image](https://github.com/user-attachments/assets/55cb774d-669e-4935-a1d1-9afe7dac4cba)  
+
+### Boolean, Comparison, and logical Operators in JavaScript  
+![image](https://github.com/user-attachments/assets/ce761007-c4d4-4cf1-a6ad-92b54afc67b5)  
+![image](https://github.com/user-attachments/assets/662851fd-2383-430e-99f6-f67c5897f78e)  
+![image](https://github.com/user-attachments/assets/d9d5bac9-bbc3-4f8a-b548-68e15a629e34)  
+![image](https://github.com/user-attachments/assets/0cd453b4-d2c6-410f-bef5-b85cb74bccc9)  
+![image](https://github.com/user-attachments/assets/6f71163b-947b-495a-ba17-33b0858c1fc2)  
+
+
+
+
+
+
+
 
 
 
