@@ -155,6 +155,8 @@ if (index !== -1) {
 // Loop through and print each item
 items.forEach(item => console.log(item));
 ```
+![image](https://github.com/user-attachments/assets/ce44c418-1196-426f-afaf-a61fe007440d)  
+
 
  
 
