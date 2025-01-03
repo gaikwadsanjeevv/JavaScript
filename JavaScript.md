@@ -130,32 +130,28 @@ for (let i = 0; i < 5; i++) {
 #### Arrays in JavaScript  
 An array is a special variable in JavaScript that can hold multiple values at once. Arrays are a part of JavaScript's standard library and are extensively used to store and manipulate collections of data.  
 ![image](https://github.com/user-attachments/assets/fb82f307-9275-4d7d-b6fe-354799dd6e80)  
-![image](https://github.com/user-attachments/assets/5b0d9b4c-db5d-4c8f-a90d-f9add8efa036)  
-![image](https://github.com/user-attachments/assets/cad75d40-d79d-43e4-aaff-4501c05645d4)  
-![image](https://github.com/user-attachments/assets/365976f8-ddfd-456a-b839-bcb75fcb18fd)  
-![image](https://github.com/user-attachments/assets/43daa5f3-60d6-4267-b39a-c5693d75799b)  
-![image](https://github.com/user-attachments/assets/5164d898-bab7-4fdb-ab0d-28c103c55ec3)  
-```JavaScript
-let items = ["pen", "notebook", "eraser", "marker"];
+#### Array Methods  
+![image](https://github.com/user-attachments/assets/58abf194-e1fb-4c07-9140-0a0a957bca97)  
+![image](https://github.com/user-attachments/assets/575392bf-0e8e-4303-b89f-b833d13d92f3)  
+![image](https://github.com/user-attachments/assets/00333db3-0c10-4f82-8f80-7800910a4e7e)  
+![image](https://github.com/user-attachments/assets/6ad59fc6-ce69-4f8f-958b-df294f944d71)  
+![image](https://github.com/user-attachments/assets/dad8f52a-153b-477f-865d-36b0aafc82db)  
+![image](https://github.com/user-attachments/assets/522fbd03-e3ad-428b-8c26-4f5b5d005338)  
+![image](https://github.com/user-attachments/assets/81091ed1-e675-4e9e-a023-0aa4184c9604)  
+![image](https://github.com/user-attachments/assets/fefa066c-1d7c-45c3-b3db-ed8d3199f423)  
+![image](https://github.com/user-attachments/assets/965d5d82-2af3-4bf5-93b3-a198ba123f03)  
+![image](https://github.com/user-attachments/assets/85573b4e-7638-4b66-bc24-22b43afef1e2)  
+![image](https://github.com/user-attachments/assets/30046b15-9ff0-45b3-a6f3-68c7117e0334)  
+![image](https://github.com/user-attachments/assets/3abfb10c-5122-4bea-a544-bc1f0854fcf0)  
 
-// Add an element
-items.push("pencil");
 
-// Remove the first element
-items.shift();
 
-// Find the index of "eraser"
-let index = items.indexOf("eraser");
 
-// Replace "eraser" with "sharpener"
-if (index !== -1) {
-  items[index] = "sharpener";
-}
+![image](https://github.com/user-attachments/assets/36eb2662-012c-4071-af4a-61227017adc7)  
+![image](https://github.com/user-attachments/assets/2c2947bf-71d5-4519-ba9b-6af8e82ca6d5)  
 
-// Loop through and print each item
-items.forEach(item => console.log(item));
-```
-![image](https://github.com/user-attachments/assets/ce44c418-1196-426f-afaf-a61fe007440d)  
+
+
 
 
  
