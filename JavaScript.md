@@ -162,6 +162,26 @@ More Clear if there is only one variable. Arrow function
 ![image](https://github.com/user-attachments/assets/97abe9cc-f0a0-4aa0-adcc-917577ac56bc)
 ![image](https://github.com/user-attachments/assets/d9b891f3-ba0b-4620-abd6-1e4b5bd6c4fc)  
 
+#### Object  
+- Is the collection of key value pair.
+var person = {  
+name = 'John',  
+age: 30,  
+city: 'New York' };
+
+we can put function inside value of object  
+![image](https://github.com/user-attachments/assets/e4f1884b-890f-44cc-acb5-415a1c8bb7f8)  
+![image](https://github.com/user-attachments/assets/bc24d5e5-2343-48f4-8180-b163ccc1f1a7)  
+![image](https://github.com/user-attachments/assets/15452ecf-4c62-40a4-b436-e666b315fe3a)  
+Reference is checked in object so both didnot equal, value is checked in primitive variable comparision.  
+
+
+
+
+
+
+
+
 
 
 
