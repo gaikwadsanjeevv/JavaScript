@@ -154,6 +154,16 @@ An array is a special variable in JavaScript that can hold multiple values at on
 ![image](https://github.com/user-attachments/assets/ff7b1aa9-b4de-4fef-9461-83174cc1da3e)  
 ![image](https://github.com/user-attachments/assets/9a08f7d9-f854-4081-bda7-aa26a5fc2106)  
 ![image](https://github.com/user-attachments/assets/d841145b-02ca-4142-8f36-db5df795ee6d)  
+![image](https://github.com/user-attachments/assets/321cca63-e84f-48f1-be30-a2d06d43567b)  
+![image](https://github.com/user-attachments/assets/f7cc8bb1-0671-4691-8d6f-ae67118539d5)  
+New Way:  
+![image](https://github.com/user-attachments/assets/dd88e73d-e4df-40d0-a696-904daf3caa1f)  
+More Clear if there is only one variable. Arrow function  
+![image](https://github.com/user-attachments/assets/97abe9cc-f0a0-4aa0-adcc-917577ac56bc)
+![image](https://github.com/user-attachments/assets/d9b891f3-ba0b-4620-abd6-1e4b5bd6c4fc)  
+
+
+
 
 
 
