@@ -149,6 +149,16 @@ An array is a special variable in JavaScript that can hold multiple values at on
 
 ![image](https://github.com/user-attachments/assets/36eb2662-012c-4071-af4a-61227017adc7)  
 ![image](https://github.com/user-attachments/assets/2c2947bf-71d5-4519-ba9b-6af8e82ca6d5)  
+![image](https://github.com/user-attachments/assets/d6e323b9-31fd-44fc-8077-7424e7b9ad34)  
+![image](https://github.com/user-attachments/assets/2a1c4765-7a2e-45d9-a9be-30fa7a77f0f7)  
+![image](https://github.com/user-attachments/assets/ff7b1aa9-b4de-4fef-9461-83174cc1da3e)  
+![image](https://github.com/user-attachments/assets/9a08f7d9-f854-4081-bda7-aa26a5fc2106)  
+![image](https://github.com/user-attachments/assets/d841145b-02ca-4142-8f36-db5df795ee6d)  
+
+
+
+
+
 
 
 
