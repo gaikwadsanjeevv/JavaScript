@@ -192,6 +192,21 @@ myVariable = 10;
 ![image](https://github.com/user-attachments/assets/7d87dc26-2d82-464b-a13a-8f2f941030c5)  
 - It is recommended to used let and const instead of var to declare variables.
 
+#### Call Back Function  
+- A call back function or a piece of code that is passed as an argument to another function.
+  ```JavaScript
+  function processData(data) {
+  console.log("processing..."+data);
+  }
+  function deleteData(data) {
+   console.log("deleting..."+data);
+  }
+  function func(methodName) {
+  MethodName("John");
+  }
+
+  func(deleteData);   //passing function as argument is called call back
+  ```
 
 
 
