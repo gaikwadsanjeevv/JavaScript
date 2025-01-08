@@ -175,6 +175,24 @@ we can put function inside value of object
 ![image](https://github.com/user-attachments/assets/15452ecf-4c62-40a4-b436-e666b315fe3a)  
 Reference is checked in object so both didnot equal, value is checked in primitive variable comparision.  
 
+#### Hoisting  
+- Hoisting in JavaScript moves variable and function declarations to top of their scopes, allowing them to be used before they are actually declared in the code.
+- Variables declared using the var keyword are hoisted only the declaration is hoisted not the initialization.
+```JavaScript
+console.log(myVariable);  //Output: undefined
+var myVariable = 10;
+
+
+var myVariable;
+console.log(myVariable);  // output: undefined
+myVariable = 10;
+```
+- Unlike function declarations, fucntions expression are not hoisted.
+
+![image](https://github.com/user-attachments/assets/7d87dc26-2d82-464b-a13a-8f2f941030c5)  
+- It is recommended to used let and const instead of var to declare variables.
+
+
 
 
 
