@@ -234,47 +234,67 @@ The DOM represents the structure of a web page as a tree-like structure, where e
 1. Element Selection Methods
 document.getElementById(id)
 Selects an element by its ID.
+
 document.getElementsByClassName(className)
 Selects all elements with a specific class name.
+
 document.getElementsByTagName(tagName)
 Selects all elements with a specific tag name.
+
 document.querySelector(selector)
 Selects the first element that matches a CSS selector.
+
 document.querySelectorAll(selector)
 Selects all elements that match a CSS selector.
+
 2. Element Creation Methods
 document.createElement(tagName)
 Creates a new element of the specified tag.
+
 document.createTextNode(text)
 Creates a new text node.
+
 3. Element Insertion and Modification
 element.appendChild(node)
 Appends a child node to the specified element.
+
 element.insertBefore(newNode, referenceNode)
 Inserts a new node before a reference node.
+
 element.replaceChild(newNode, oldNode)
 Replaces a child node with a new node.
+
 element.removeChild(child)
 Removes a child node.
+
 element.innerHTML
 Gets or sets the HTML content of an element.
+
 element.innerText / element.textContent
 Gets or sets the text content of an element.
+
 4. Attribute Manipulation
 element.getAttribute(attributeName)
 Retrieves the value of an attribute.
+
 element.setAttribute(attributeName, value)
 Sets an attribute's value.
+
 element.removeAttribute(attributeName)
 Removes an attribute from an element.
+
 element.hasAttribute(attributeName)
 Checks if an element has a specific attribute.
+
 5. Style and Class Manipulation
 element.classList.add(className)
+
 Adds a class to the element.
 element.classList.remove(className)
+
 Removes a class from the element.
 element.classList.toggle(className)
+
 Toggles a class on the element.
 element.classList.contains(className)
 Checks if an element has a specific class.
