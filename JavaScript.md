@@ -207,6 +207,22 @@ myVariable = 10;
 
   func(deleteData);   //passing function as argument is called call back
   ```
+#### Filter
+```JavaScript
+const numbers = [1,2,3,4,5,6];  
+//Filter even numbers
+const evenNumbers = numbers.filter(number => number % 2 === 0);
+console.log(evenNumbers); //Output: [2,4,6]
+
+//Filter number greater than 3
+const freaterThanThree = numbers.filter(number => number > 3);
+console.log(greaterThanThree); //Output: [4,5,6]
+
+```
+![image](https://github.com/user-attachments/assets/883da956-5a32-4a4b-bb55-3de1b9d4392e)  
+![image](https://github.com/user-attachments/assets/a0623090-baf8-45e9-b292-fb6e07e741cd)  
+![image](https://github.com/user-attachments/assets/62414986-0049-42e7-b123-b5de5dbb2f4a)  
+
 
 
 
