@@ -222,10 +222,131 @@ console.log(greaterThanThree); //Output: [4,5,6]
 ![image](https://github.com/user-attachments/assets/883da956-5a32-4a4b-bb55-3de1b9d4392e)  
 ![image](https://github.com/user-attachments/assets/a0623090-baf8-45e9-b292-fb6e07e741cd)  
 ![image](https://github.com/user-attachments/assets/62414986-0049-42e7-b123-b5de5dbb2f4a)  
-
-
-
-
+##### This Keyword  
+![image](https://github.com/user-attachments/assets/2a4c2b96-a66b-4ca9-ae55-50636542d2ce)  
+#### DOM  
+The DOM represents the structure of a web page as a tree-like structure, where each element in the web page is a node in the tree.  
+![image](https://github.com/user-attachments/assets/e810c8ae-e56d-43fd-b9d3-a43cd2a47a14)  
+![image](https://github.com/user-attachments/assets/9dbbe783-ae77-4d6c-9860-1f9e6399a289)  
+![image](https://github.com/user-attachments/assets/f04e3ea8-13db-4490-b322-00ef37821630)  
+##### Commonly used DOM methods grouped by their functionality:  
+```JavaScript
+1. Element Selection Methods
+document.getElementById(id)
+Selects an element by its ID.
+document.getElementsByClassName(className)
+Selects all elements with a specific class name.
+document.getElementsByTagName(tagName)
+Selects all elements with a specific tag name.
+document.querySelector(selector)
+Selects the first element that matches a CSS selector.
+document.querySelectorAll(selector)
+Selects all elements that match a CSS selector.
+2. Element Creation Methods
+document.createElement(tagName)
+Creates a new element of the specified tag.
+document.createTextNode(text)
+Creates a new text node.
+3. Element Insertion and Modification
+element.appendChild(node)
+Appends a child node to the specified element.
+element.insertBefore(newNode, referenceNode)
+Inserts a new node before a reference node.
+element.replaceChild(newNode, oldNode)
+Replaces a child node with a new node.
+element.removeChild(child)
+Removes a child node.
+element.innerHTML
+Gets or sets the HTML content of an element.
+element.innerText / element.textContent
+Gets or sets the text content of an element.
+4. Attribute Manipulation
+element.getAttribute(attributeName)
+Retrieves the value of an attribute.
+element.setAttribute(attributeName, value)
+Sets an attribute's value.
+element.removeAttribute(attributeName)
+Removes an attribute from an element.
+element.hasAttribute(attributeName)
+Checks if an element has a specific attribute.
+5. Style and Class Manipulation
+element.classList.add(className)
+Adds a class to the element.
+element.classList.remove(className)
+Removes a class from the element.
+element.classList.toggle(className)
+Toggles a class on the element.
+element.classList.contains(className)
+Checks if an element has a specific class.
+element.style.propertyName
+Sets or retrieves a CSS property value.
+6. Event Handling
+element.addEventListener(event, callback)
+Attaches an event listener to an element.
+element.removeEventListener(event, callback)
+Removes an event listener from an element.
+element.dispatchEvent(event)
+Dispatches an event to an element.
+7. Traversing the DOM
+element.parentNode
+Gets the parent node of an element.
+element.childNodes
+Returns a NodeList of child nodes (including text nodes).
+element.children
+Returns a live collection of child elements (excluding text nodes).
+element.firstChild
+Gets the first child node.
+element.lastChild
+Gets the last child node.
+element.nextSibling
+Gets the next sibling node.
+element.previousSibling
+Gets the previous sibling node.
+element.firstElementChild
+Gets the first child element.
+element.lastElementChild
+Gets the last child element.
+element.nextElementSibling
+Gets the next sibling element.
+element.previousElementSibling
+Gets the previous sibling element.
+8. Form and Input Methods
+element.focus()
+Sets focus to an element.
+element.blur()
+Removes focus from an element.
+form.submit()
+Submits a form.
+form.reset()
+Resets all form fields.
+input.select()
+Selects the text in a text input field.
+9. Node Information
+node.nodeType
+Gets the type of a node (e.g., element, text, comment).
+node.nodeName
+Gets the name of the node.
+node.nodeValue
+Gets or sets the value of a node.
+10. Dimensions and Position
+element.offsetWidth / element.offsetHeight
+Gets the width/height of an element including padding and borders.
+element.clientWidth / element.clientHeight
+Gets the width/height of an element excluding borders but including padding.
+element.scrollWidth / element.scrollHeight
+Gets the total scrollable width/height of an element.
+element.getBoundingClientRect()
+Returns the size and position of an element relative to the viewport.
+11. Other Useful Methods
+document.createDocumentFragment()
+Creates a lightweight, invisible container for DOM manipulation.
+document.getSelection()
+Retrieves the selected text or elements.
+document.write(html)
+Writes HTML directly to the document (not recommended).
+window.getComputedStyle(element)
+Retrieves the computed style of an element.
+```
 
 
 
