@@ -4,7 +4,7 @@
 In GIT we have Repository - The location where your code history is stored.  
 Branch - "Folder" within the repository containing commits.  
 Commits- Different Stages of your code inside a branch.  
-
+```java
 - git init //initialize git into particular location.  
 - git add . //add all the files from the location to be tracked.  
 - git Status - Shows status of location git presence on which file.  
@@ -34,7 +34,9 @@ So: 4 lines removed, 0 added.
 
 If you just want to know which files changed in the 2nd commit:  
 - git show --name-only b2c3d4e5f6g7h8i9j0k1  
-Shorter logs with one line comments.  
+Shorter logs with one line comments.
+
+```
 - git log --oneline  
 
 
